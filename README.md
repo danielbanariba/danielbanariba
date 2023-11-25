@@ -4,6 +4,29 @@
 
 Actualmente estoy cursando la carrera de **Ingenieria en Sistemas Computacionales** 👨🏽‍💻 apasionado por la tecnologias como **JavaScript**, **Java**, **Spring Boot**, **Python** y **FastAPI**. Actualmente solo estoy estudiando para mejorar mis habilidades y destresas como desarollador de software.
 
+<!-- Lenguajes y Herramientas que puedo dominar -->
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+  <a href="https://www.java.com/" target="_blank"><img src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png" alt="Java" width="50" height="50"/> </a> 
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/144/000000/python--v1.png" alt="Python" width="50" height="50"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="MySQL" width="50" height="50"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/html-5--v1.png" alt="Html5" width="50" height="50"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/150/000000/css3.png" alt="Css" width="50" height="50"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/144/000000/javascript--v1.png" alt="javascript" width="50" height="50"/></a> 
+  <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++" width="50" height="50"/> </a> 
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="https://img.icons8.com/color/144/000000/adobe-premiere-pro--v1.png" alt="Adobe Premiere Pro" width="50" height="50"/> </a> 
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> <img src="https://img.icons8.com/color/144/000000/adobe-after-effects--v1.png" alt="Adobe After Effects" width="50" height="50"/> </a> 
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src="https://img.icons8.com/color/144/000000/adobe-illustrator--v1.png" alt="Adobe Illustrator" width="50" height="50"/> </a> 
+  <a href="https://www.oracle.com/database/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/oracle-logo.png" alt="Oracle SQL" width="50" height="50"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/git.png" alt="Git" width="50" height="50"/> </a> 
+  <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/144/000000/spring-logo.png" alt="Spring Boot" width="50" height="50"/> </a> 
+  <a href="https://fastapi.tiangolo.com/" target="_blank"> 
+  <img src="/img/fastapi_logo_icon_248575.png" alt="FastAPI" width="50" height="50" style="filter: invert(34%) sepia(29%) saturate(748%) hue-rotate(133deg) brightness(91%) contrast(89%);"/> 
+</a> 
+</p>
+
+
+<!-- Redes Sociales -->
 <a href="https://www.instagram.com/danielbanariba">
   <img align="left" alt="Daniel Banariba | Instagram" width="22px" src="https://simpleicons.vercel.app/instagram/fff"/>
 </a>
