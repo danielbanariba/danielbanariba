@@ -5,16 +5,16 @@
 Actualmente estoy cursando la carrera de **Ingenieria en Sistemas Computacionales** 👨🏽‍💻 apasionado por la tecnologias como **JavaScript**, **Java**, **Spring Boot**, **Python** y **FastAPI**. Actualmente solo estoy estudiando para mejorar mis habilidades y destresas como desarollador de software.
 
 <a href="https://www.instagram.com/danielbanariba">
-  <img align="left" alt="Daniel Banariba | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Daniel Banariba | Instagram" width="22px" src="https://simpleicons.vercel.app/instagram/fff"/>
 </a>
-<a href="https://www.linkedin.com/in/danielbanariba/">
-  <img align="left" alt="Daniel Banariba | LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/danielbanariba">
+  <img align="left" alt="Daniel Banariba | LinkdeIn" width="22px" src="https://simpleicons.vercel.app/linkedin/fff"/>
 </a>
 <a href="https://github.com/DanielBanariba">
-  <img align="left" alt="Daniel Banariba | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" />
+  <img align="left" alt="Daniel Banariba | Github" width="22px" src="https://simpleicons.vercel.app/github/fff" />
 </a>
   <a href="https://www.youtube.com/channel/UCa5U18nMgHUsqg-zsE1779Q">
-  <img align="left" alt="Daniel Banariba | Youtube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" />
+  <img align="left" alt="Daniel Banariba | Youtube Channel" width="22px" src="https://simpleicons.vercel.app/youtube/fff" />
 </p>
 
 
