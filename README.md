@@ -21,7 +21,7 @@ Actualmente estoy cursando la carrera de **Ingenieria en Sistemas Computacionale
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/git.png" alt="Git" width="50" height="50"/> </a> 
   <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/144/000000/spring-logo.png" alt="Spring Boot" width="50" height="50"/> </a> 
   <a href="https://fastapi.tiangolo.com/" target="_blank"> 
-  <img src="/img/fastapi_logo_icon_248575.png" alt="FastAPI" width="50" height="50" style="filter: invert(34%) sepia(29%) saturate(748%) hue-rotate(133deg) brightness(91%) contrast(89%);"/> 
+  <img src="/img/fastapi-logo.svg" alt="FastAPI" width="50" height="50"/> 
 </a> 
 </p>
 
