@@ -38,7 +38,7 @@ Actualmente estoy cursando la carrera de **Ingenieria en Sistemas Computacionale
 <a href="https://github.com/DanielBanariba">
   <img align="left" alt="Daniel Banariba | Github" width="22px" src="https://simpleicons.vercel.app/github/fff" />
 </a>
-  <a href="https://www.youtube.com/channel/UCa5U18nMgHUsqg-zsE1779Q">
+  <a href="https://www.youtube.com/@danielbanariba">
   <img align="left" alt="Daniel Banariba | Youtube Channel" width="22px" src="https://simpleicons.vercel.app/youtube/fff" />
 </p>
 
