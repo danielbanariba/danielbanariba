@@ -23,6 +23,14 @@ Actualmente estoy cursando la carrera de **Ingenieria en Sistemas Computacionale
   <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="/img/fastapi-logo.svg" alt="FastAPI" width="50" height="50"/> </a> 
 </p>
 
+<p align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBanariba&layout=compact&theme=github_dark_dimmed&&show_icons=true" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielBanariba&theme=github_dark_dimmed&show_icons=true" align = "center"/>
+<!-- Lo voy a comentar porque uno nunca sabe si despues lo quiere volver a ponerlo xd pero es un grafico con un circulo bien cute
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBanariba&layout=pie&theme=github_dark&custom_title=Arthapz%27s%20Top%20Langs)](https://github.com/DanielBanariba/github-readme-stats)
+--></p>
+
 ## Contactame: 
 
 
