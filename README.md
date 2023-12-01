@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hola soy Daniel Banariba! 👋🏽</a></h1>
+  <h1 align="center">Hi! I'm Daniel Banariba! 👋🏽</a></h1>
 </div>
 
 Actualmente estoy cursando la carrera de **Ingenieria en Sistemas Computacionales** 👨🏽‍💻 apasionado por la tecnologias como **JavaScript**, **Java**, **Spring Boot**, **Python** y **FastAPI**. Actualmente solo estoy estudiando para mejorar mis habilidades y destresas como desarollador de software.
@@ -20,9 +20,7 @@ Actualmente estoy cursando la carrera de **Ingenieria en Sistemas Computacionale
   <a href="https://www.oracle.com/database/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/oracle-logo.png" alt="Oracle SQL" width="50" height="50"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/git.png" alt="Git" width="50" height="50"/> </a> 
   <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/144/000000/spring-logo.png" alt="Spring Boot" width="50" height="50"/> </a> 
-  <a href="https://fastapi.tiangolo.com/" target="_blank"> 
-  <img src="/img/fastapi-logo.svg" alt="FastAPI" width="50" height="50"/> 
-</a> 
+  <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="/img/fastapi-logo.svg" alt="FastAPI" width="50" height="50"/> </a> 
 </p>
 
 ## Contactame: 
