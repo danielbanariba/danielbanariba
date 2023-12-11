@@ -25,10 +25,10 @@ Actualmente estoy cursando la carrera de **Ingenieria en Sistemas Computacionale
 
 <p align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBanariba&layout=compact&theme=github_dark_dimmed&&show_icons=true" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielBanariba&theme=github_dark_dimmed&show_icons=true" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbanariba&layout=compact&theme=github_dark_dimmed&&show_icons=true" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbanariba&theme=github_dark_dimmed&show_icons=true" align = "center"/>
 <!-- Lo voy a comentar porque uno nunca sabe si despues lo quiere volver a ponerlo xd pero es un grafico con un circulo bien cute
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBanariba&layout=pie&theme=github_dark&custom_title=Arthapz%27s%20Top%20Langs)](https://github.com/DanielBanariba/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielbanariba&layout=pie&theme=github_dark&custom_title=Arthapz%27s%20Top%20Langs)](https://github.com/danielbanariba/github-readme-stats)
 --></p>
 
 ## Contactame: 
@@ -41,7 +41,7 @@ Actualmente estoy cursando la carrera de **Ingenieria en Sistemas Computacionale
 <a href="https://www.linkedin.com/in/danielbanariba">
   <img align="left" alt="Daniel Banariba | LinkdeIn" width="22px" src="https://simpleicons.vercel.app/linkedin/fff"/>
 </a>
-<a href="https://github.com/DanielBanariba">
+<a href="https://github.com/danielbanariba">
   <img align="left" alt="Daniel Banariba | Github" width="22px" src="https://simpleicons.vercel.app/github/fff" />
 </a>
   <a href="https://www.youtube.com/@danielbanariba">
