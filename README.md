@@ -21,7 +21,7 @@ Actualmente estoy cursando la carrera de **Ingenieria en Sistemas Computacionale
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/git.png" alt="Git" width="50" height="50"/> </a> 
   <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/144/000000/spring-logo.png" alt="Spring Boot" width="50" height="50"/> </a> 
   <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="/img/fastapi-logo.svg" alt="FastAPI" width="50" height="50"/> </a>
-  <a href="https://reflex.dev/" target="_blank"> <img src="/img/reflex.jpg" alt="Reflex" width="50" height="50"/> </a> 
+  <a href="https://reflex.dev/" target="_blank"> <img src="/img/reflex.svg" alt="Reflex" width="50" height="50"/> </a> 
 </p>
 
 <p align="center">
