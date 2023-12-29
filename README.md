@@ -7,7 +7,7 @@ Actualmente estoy cursando la carrera de **Ingenieria en Sistemas Computacionale
 <!-- Lenguajes y Herramientas que puedo dominar -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <a href="https://www.java.com/" target="_blank"><img src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png" alt="Java" width="50" height="50"/> </a> 
+  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png" alt="Java" width="50" height="50"/> </a> 
   <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/144/000000/python--v1.png" alt="Python" width="50" height="50"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="MySQL" width="50" height="50"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/html-5--v1.png" alt="Html5" width="50" height="50"/> </a> 
