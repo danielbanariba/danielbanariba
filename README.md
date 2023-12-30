@@ -14,9 +14,9 @@ Actualmente estoy cursando la carrera de **Ingenieria en Sistemas Computacionale
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/150/000000/css3.png" alt="Css" width="50" height="50"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/144/000000/javascript--v1.png" alt="javascript" width="50" height="50"/></a> 
   <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++" width="50" height="50"/> </a> 
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="https://img.icons8.com/color/144/000000/adobe-premiere-pro--v1.png" alt="Adobe Premiere Pro" width="50" height="50"/> </a> 
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> <img src="https://img.icons8.com/color/144/000000/adobe-after-effects--v1.png" alt="Adobe After Effects" width="50" height="50"/> </a> 
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src="https://img.icons8.com/color/144/000000/adobe-illustrator--v1.png" alt="Adobe Illustrator" width="50" height="50"/> </a> 
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="/img/premiere.svg" alt="Adobe Premiere Pro" width="50" height="50"/> </a> 
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> <img src="/img/after-effects.svg" alt="Adobe After Effects" width="50" height="50"/> </a> 
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src="/img/illustrator.svg" alt="Adobe Illustrator" width="50" height="50"/> </a> 
   <a href="https://www.oracle.com/database/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/oracle-logo.png" alt="Oracle SQL" width="50" height="50"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/git.png" alt="Git" width="50" height="50"/> </a> 
   <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/144/000000/spring-logo.png" alt="Spring Boot" width="50" height="50"/> </a> 
