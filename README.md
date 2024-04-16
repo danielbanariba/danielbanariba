@@ -37,7 +37,7 @@ Actualmente estoy cursando la carrera de **Ingenieria en Sistemas Computacionale
 <!--Lo que estoy escuchando por spotify-->
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=312nskk4ppfxenudsd2vue6hlyzq&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=312nskk4ppfxenudsd2vue6hlyzq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" width="200%" height="200%">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=312nskk4ppfxenudsd2vue6hlyzq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" width="120%" height="120%">
   </a>
 </p>
 
