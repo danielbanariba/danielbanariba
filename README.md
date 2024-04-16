@@ -32,6 +32,15 @@ Actualmente estoy cursando la carrera de **Ingenieria en Sistemas Computacionale
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielbanariba&layout=pie&theme=github_dark&custom_title=Arthapz%27s%20Top%20Langs)](https://github.com/danielbanariba/github-readme-stats)
 --></p>
 
+
+
+<!--Lo que estoy escuchando por spotify-->
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=312nskk4ppfxenudsd2vue6hlyzq&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=312nskk4ppfxenudsd2vue6hlyzq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile">
+  </a>
+</p>
+
 ## Contactame: 
 
 
@@ -48,9 +57,6 @@ Actualmente estoy cursando la carrera de **Ingenieria en Sistemas Computacionale
   <a href="https://www.youtube.com/@danielbanariba">
   <img align="left" alt="Daniel Banariba | Youtube Channel" width="22px" src="https://simpleicons.vercel.app/youtube/fff" />
 </p>
-
-<!--Lo que estoy escuchando por spotify-->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312nskk4ppfxenudsd2vue6hlyzq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=312nskk4ppfxenudsd2vue6hlyzq&redirect=true)
 
 
 
