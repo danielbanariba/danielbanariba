@@ -86,7 +86,7 @@ Actualmente estoy cursando la carrera de **Ingenieria en Sistemas Computacionale
   <a href="https://www.perplexity.ai/" target="_blank"><img src="/img/ia/perplexity.svg" alt="Perplexity" width="50" height="50"/></a>
   <a href="https://ollama.com/" target="_blank"><img src="/img/ia/ollama.svg" alt="Ollama" width="50" height="50"/></a>
   <a href="https://www.deepseek.com/" target="_blank"><img src="/img/ia/deepseek.svg" alt="DeepSeek" width="50" height="50"/></a>
-  <a href="https://cursor.sh/" target="_blank"><img src="/img/ia/Cursor_light.svg" alt="Cursor" width="50" height="50"/></a>
+  <a href="https://cursor.sh/" target="_blank"><img src="/img/ia/cursor.svg" alt="Cursor" width="50" height="50"/></a>
   <a href="https://qwen.ai/" target="_blank"><img src="/img/ia/Qwen_dark.svg" alt="Qwen" width="50" height="50"/></a>
 </p>
 
