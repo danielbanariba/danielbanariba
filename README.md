@@ -1,21 +1,26 @@
 <div align="center">
-  <h1 align="center">Hi! I'm Daniel Banariba!👋🏽</a></h1>
+  <h2 align="center">Hi! I'm Daniel Banariba!👋🏽</a></h2>
 </div>
 
 Actualmente estoy cursando la carrera de **Ingenieria en Sistemas Computacionales** 👨🏽‍💻 apasionado por la tecnologias como **JavaScript**, **Java**, **Spring Boot**, **Python** y **FastAPI**. Actualmente solo estoy estudiando para mejorar mis habilidades y destresas como desarollador de software.
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Languages
+<div align="center">
+  <h2 align="center">💻 Languages</a></h2>
+</div>
 <p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="/img/lenguage/python.svg" alt="Python" width="50" height="50"/></a>
   <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer"><img src="/img/lenguage/java.svg" alt="Java" width="50" height="50"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="/img/lenguage/typescript.svg" alt="TypeScript" width="50" height="50"/></a>
+  <a href="https://www.rust-lang.org/" target="_blank"><img src="/img/lenguage/rust.svg" alt="Rust" width="50" height="50"/></a>
   <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"><img src="/img/lenguage/cpp.svg" alt="C++" width="50" height="50"/></a>
   <a href="https://www.r-project.org/" target="_blank"><img src="/img/lenguage/r.svg" alt="R" width="50" height="50"/></a>
 </p>
 
-### 🧰 Frameworks
+<div align="center">
+  <h2 align="center">🧰 Frameworks</a></h2>
+</div>
 <p align="center">
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="/img/framework/spring.svg" alt="Spring Boot" width="50" height="50"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="/img/framework/fastapi.svg" alt="FastAPI" width="50" height="50"/></a>
@@ -26,12 +31,16 @@ Actualmente estoy cursando la carrera de **Ingenieria en Sistemas Computacionale
   <a href="https://nestjs.com/" target="_blank"><img src="/img/framework/nestjs.svg" alt="NestJS" width="50" height="50"/></a>
 </p>
 
-### 📚 Libraries
+<!-- <div align="center">
+  <h2 align="center">📚 Libraries</a></h2>
+</div>
 <p align="center">
   <a href="https://react.dev/" target="_blank"><img src="/img/librerias/react.svg" alt="React" width="50" height="50"/></a>
-</p>
+</p> -->
 
-### 🗄️ Databases
+<div align="center">
+  <h2 align="center">🗄️ Databases</a></h2>
+</div>
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank"><img src="/img/database/mysql.svg" alt="MySQL" width="50" height="50"/></a>
   <a href="https://www.oracle.com/database/" target="_blank"><img src="/img/database/oracle.svg" alt="Oracle" width="50" height="50"/></a>
@@ -41,7 +50,9 @@ Actualmente estoy cursando la carrera de **Ingenieria en Sistemas Computacionale
   <a href="https://aws.amazon.com/dynamodb/" target="_blank"><img src="/img/database/aws-dynamodb.svg" alt="DynamoDB" width="50" height="50"/></a>
 </p>
 
-### 🚀 Infrastructure & DevOps
+<div align="center">
+  <h2 align="center">🚀 Infrastructure & DevOps</a></h2>
+</div>
 <p align="center">
   <a href="https://aws.amazon.com/" target="_blank"><img src="/img/infraestructura/aws.svg" alt="AWS" width="50" height="50"/></a>
   <a href="https://azure.microsoft.com/" target="_blank"><img src="/img/infraestructura/azure.svg" alt="Azure" width="50" height="50"/></a>
@@ -51,7 +62,9 @@ Actualmente estoy cursando la carrera de **Ingenieria en Sistemas Computacionale
   <a href="https://vercel.com/" target="_blank"><img src="/img/infraestructura/vercel.svg" alt="Vercel" width="50" height="50"/></a>
 </p>
 
-### 🧪 QA & Testing
+<div align="center">
+  <h2 align="center">🧪 QA & Testing</a></h2>
+</div>
 <p align="center">
   <a href="https://www.postman.com/" target="_blank"><img src="/img/qa-testing/postman.svg" alt="Postman" width="50" height="50"/></a>
   <a href="https://www.selenium.dev/" target="_blank"><img src="/img/qa-testing/selenium.svg" alt="Selenium" width="50" height="50"/></a>
@@ -62,7 +75,9 @@ Actualmente estoy cursando la carrera de **Ingenieria en Sistemas Computacionale
   <a href="https://apidog.com/" target="_blank"><img src="/img/qa-testing/apidog.svg" alt="APIdog" width="50" height="50"/></a>
 </p>
 
-### 🤖 AI Tools
+<div align="center">
+  <h2 align="center">🤖 AI Tools</a></h2>
+</div>
 <p align="center">
   <a href="https://github.com/features/copilot" target="_blank"><img src="/img/ia/copilot.svg" alt="GitHub Copilot" width="50" height="50"/></a>
   <a href="https://www.anthropic.com/claude" target="_blank"><img src="/img/ia/claude.svg" alt="Claude" width="50" height="50"/></a>
@@ -75,7 +90,9 @@ Actualmente estoy cursando la carrera de **Ingenieria en Sistemas Computacionale
   <a href="https://qwen.ai/" target="_blank"><img src="/img/ia/Qwen_dark.svg" alt="Qwen" width="50" height="50"/></a>
 </p>
 
-### 🔧 Tools
+<div align="center">
+  <h2 align="center">🔧 Tools</a></h2>
+</div>
 <p align="center">
   <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="/img/tools/premiere.svg" alt="Adobe Premiere Pro" width="50" height="50"/></a>
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"><img src="/img/tools/after-effects.svg" alt="Adobe After Effects" width="50" height="50"/></a>
