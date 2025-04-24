@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Daniel Banariba   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
+# <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Hi, I'm Daniel Banariba   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
 ### 💻 Software Engineer | Backend Developer
-🚀 Estudiante de **Ingenieria en Sistemas Computacionales** | Apasionado por la tecnología como **JavaScript**, **Java**, **Spring Boot**, **Python** y **FastAPI**. Enfocado en mejorar mis habilidades como desarrollador de software.
 
 ```python
 #!/usr/bin/python
@@ -57,7 +56,6 @@ me.say_hi()
 <img style="margin: 10px" src="/img/framework/django.svg" alt="Django" height="50" />  
 <img style="margin: 10px" src="/img/framework/expressjs_dark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="/img/framework/nestjs.svg" alt="NestJS" height="50" />  
-<img style="margin: 10px" src="/img/librerias/react.svg" alt="React" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -213,6 +211,15 @@ mindmap
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbanariba&theme=github_dark_dimmed&show_icons=true" align="center"/>
 </p>
 
+# 🔭Actions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 ## 📫 Contáctame:
 
 <p>
@@ -222,4 +229,8 @@ mindmap
   <a href="https://www.linkedin.com/in/danielbanariba">
     <img align="left" alt="Daniel Banariba | LinkdeIn" width="22px" src="/img/contact/linkedin.svg"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
