@@ -1,6 +1,8 @@
 # <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Hi, I'm Daniel Banariba   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
 ### 💻 Software Engineer | Backend Developer
 
+<img src="/img/banner.png">
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
