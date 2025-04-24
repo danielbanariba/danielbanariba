@@ -1,109 +1,210 @@
-<div align="center">
-  <h2 align="center">Hi! I'm Daniel Banariba!👋🏽</a></h2>
+# 👋 Hi, I'm Daniel Banariba   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
+### 💻 Software Engineer | Backend Developer
+🚀 Estudiante de **Ingenieria en Sistemas Computacionales** | Apasionado por la tecnología como **JavaScript**, **Java**, **Spring Boot**, **Python** y **FastAPI**. Enfocado en mejorar mis habilidades como desarrollador de software.
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Daniel Banariba"
+        self.role = "Software Engineer"
+        self.language_spoken = ["es_HN", "en_US"]
+        self.passions = ["Backend Development", "Clean Code", "Problem Solving"]
+        self.coffee_level = 100  # Always full
+
+    def say_hi(self):
+        print("¡Hola! Thanks for dropping by - hope you find some of my work interesting.")
+        print("Code with passion, debug with patience!")
+
+    def refill_coffee(self):
+        if self.coffee_level < 50:
+            self.coffee_level = 100
+            print("☕ Coffee refilled, ready to code again!")
+        else:
+            print("☕ Still have enough fuel to keep coding...")
+
+
+# Always caffeinated, always coding
+me = SoftwareEngineer()
+me.say_hi()
+```
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+### Languages  
+<div align="center">  
+<img style="margin: 10px" src="/img/lenguage/python.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="/img/lenguage/java.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="/img/lenguage/typescript.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="/img/lenguage/rust.svg" alt="Rust" height="50" />  
+<img style="margin: 10px" src="/img/lenguage/cpp.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="/img/lenguage/r.svg" alt="R" height="50" />  
 </div>
 
-Actualmente estoy cursando la carrera de **Ingenieria en Sistemas Computacionales** 👨🏽‍💻 apasionado por la tecnologias como **JavaScript**, **Java**, **Spring Boot**, **Python** y **FastAPI**. Actualmente solo estoy estudiando para mejorar mis habilidades y destresas como desarollador de software.
+</td><td valign="top" width="33%">
 
-## 🛠️ Skills & Technologies
-
-<div align="center">
-  <h2 align="center">💻 Languages</a></h2>
+### Frameworks  
+<div align="center">  
+<img style="margin: 10px" src="/img/framework/spring.svg" alt="Spring Boot" height="50" />  
+<img style="margin: 10px" src="/img/framework/fastapi.svg" alt="FastAPI" height="50" />  
+<img style="margin: 10px" src="/img/framework/reflex.svg" alt="Reflex" height="50" />  
+<img style="margin: 10px" src="/img/framework/astro.svg" alt="Astro" height="50" />  
+<img style="margin: 10px" src="/img/framework/django.svg" alt="Django" height="50" />  
+<img style="margin: 10px" src="/img/framework/expressjs_dark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="/img/framework/nestjs.svg" alt="NestJS" height="50" />  
+<img style="margin: 10px" src="/img/librerias/react.svg" alt="React" height="50" />  
 </div>
-<p align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="/img/lenguage/python.svg" alt="Python" width="50" height="50"/></a>
-  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer"><img src="/img/lenguage/java.svg" alt="Java" width="50" height="50"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="/img/lenguage/typescript.svg" alt="TypeScript" width="50" height="50"/></a>
-  <a href="https://www.rust-lang.org/" target="_blank"><img src="/img/lenguage/rust.svg" alt="Rust" width="50" height="50"/></a>
-  <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"><img src="/img/lenguage/cpp.svg" alt="C++" width="50" height="50"/></a>
-  <a href="https://www.r-project.org/" target="_blank"><img src="/img/lenguage/r.svg" alt="R" width="50" height="50"/></a>
-</p>
 
-<div align="center">
-  <h2 align="center">🧰 Frameworks</a></h2>
-</div>
-<p align="center">
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="/img/framework/spring.svg" alt="Spring Boot" width="50" height="50"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="/img/framework/fastapi.svg" alt="FastAPI" width="50" height="50"/></a>
-  <a href="https://reflex.dev/" target="_blank"><img src="/img/framework/reflex.svg" alt="Reflex" width="50" height="50"/></a>
-  <a href="https://astro.build/" target="_blank"><img src="/img/framework/astro.svg" alt="Astro" width="50" height="50"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="/img/framework/django.svg" alt="Django" width="50" height="50"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="/img/framework/expressjs_dark.svg" alt="Express.js" width="50" height="50"/></a>
-  <a href="https://nestjs.com/" target="_blank"><img src="/img/framework/nestjs.svg" alt="NestJS" width="50" height="50"/></a>
-</p>
+</td><td valign="top" width="33%">
 
-<!-- <div align="center">
-  <h2 align="center">📚 Libraries</a></h2>
+### Databases  
+<div align="center">  
+<img style="margin: 10px" src="/img/database/mysql.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="/img/database/oracle.svg" alt="Oracle" height="50" />  
+<img style="margin: 10px" src="/img/database/postgresql.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="/img/database/mongodb.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="/img/database/sqlite.svg" alt="SQLite" height="50" />  
+<img style="margin: 10px" src="/img/database/aws-dynamodb.svg" alt="DynamoDB" height="50" />  
 </div>
-<p align="center">
-  <a href="https://react.dev/" target="_blank"><img src="/img/librerias/react.svg" alt="React" width="50" height="50"/></a>
-</p> -->
 
-<div align="center">
-  <h2 align="center">🗄️ Databases</a></h2>
-</div>
-<p align="center">
-  <a href="https://www.mysql.com/" target="_blank"><img src="/img/database/mysql.svg" alt="MySQL" width="50" height="50"/></a>
-  <a href="https://www.oracle.com/database/" target="_blank"><img src="/img/database/oracle.svg" alt="Oracle" width="50" height="50"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="/img/database/postgresql.svg" alt="PostgreSQL" width="50" height="50"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="/img/database/mongodb.svg" alt="MongoDB" width="50" height="50"/></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="/img/database/sqlite.svg" alt="SQLite" width="50" height="50"/></a>
-  <a href="https://aws.amazon.com/dynamodb/" target="_blank"><img src="/img/database/aws-dynamodb.svg" alt="DynamoDB" width="50" height="50"/></a>
-</p>
+</td></tr></table>  
 
-<div align="center">
-  <h2 align="center">🚀 Infrastructure & DevOps</a></h2>
-</div>
-<p align="center">
-  <a href="https://aws.amazon.com/" target="_blank"><img src="/img/infraestructura/aws.svg" alt="AWS" width="50" height="50"/></a>
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="/img/infraestructura/azure.svg" alt="Azure" width="50" height="50"/></a>
-  <a href="https://www.cloudflare.com/" target="_blank"><img src="/img/infraestructura/cloudflare.svg" alt="Cloudflare" width="50" height="50"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="/img/infraestructura/docker.svg" alt="Docker" width="50" height="50"/></a>
-  <a href="https://www.terraform.io/" target="_blank"><img src="/img/infraestructura/terraform.svg" alt="Terraform" width="50" height="50"/></a>
-  <a href="https://vercel.com/" target="_blank"><img src="/img/infraestructura/vercel.svg" alt="Vercel" width="50" height="50"/></a>
-</p>
+<table><tr><td valign="top" width="33%">
 
-<div align="center">
-  <h2 align="center">🧪 QA & Testing</a></h2>
+### Infrastructure & DevOps  
+<div align="center">  
+<img style="margin: 10px" src="/img/infraestructura/aws.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="/img/infraestructura/azure.svg" alt="Azure" height="50" />  
+<img style="margin: 10px" src="/img/infraestructura/cloudflare.svg" alt="Cloudflare" height="50" />  
+<img style="margin: 10px" src="/img/infraestructura/docker.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="/img/infraestructura/terraform.svg" alt="Terraform" height="50" />  
+<img style="margin: 10px" src="/img/infraestructura/vercel.svg" alt="Vercel" height="50" />  
 </div>
-<p align="center">
-  <a href="https://www.postman.com/" target="_blank"><img src="/img/qa-testing/postman.svg" alt="Postman" width="50" height="50"/></a>
-  <a href="https://www.selenium.dev/" target="_blank"><img src="/img/qa-testing/selenium.svg" alt="Selenium" width="50" height="50"/></a>
-  <a href="https://jestjs.io/" target="_blank"><img src="/img/qa-testing/jest.svg" alt="Jest" width="50" height="50"/></a>
-  <a href="https://www.cypress.io/" target="_blank"><img src="/img/qa-testing/cypress.svg" alt="Cypress" width="50" height="50"/></a>
-  <a href="https://playwright.dev/" target="_blank"><img src="/img/qa-testing/playwright.svg" alt="Playwright" width="50" height="50"/></a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="/img/qa-testing/jira.svg" alt="Jira" width="50" height="50"/></a>
-  <a href="https://apidog.com/" target="_blank"><img src="/img/qa-testing/apidog.svg" alt="APIdog" width="50" height="50"/></a>
-</p>
 
-<div align="center">
-  <h2 align="center">🤖 AI Tools</a></h2>
-</div>
-<p align="center">
-  <a href="https://github.com/features/copilot" target="_blank"><img src="/img/ia/copilot.svg" alt="GitHub Copilot" width="50" height="50"/></a>
-  <a href="https://www.anthropic.com/claude" target="_blank"><img src="/img/ia/claude.svg" alt="Claude" width="50" height="50"/></a>
-  <a href="https://openai.com/" target="_blank"><img src="/img/ia/openai.svg" alt="OpenAI" width="50" height="50"/></a>
-  <a href="https://gemini.google.com/" target="_blank"><img src="/img/ia/gemini.svg" alt="Gemini" width="50" height="50"/></a>
-  <a href="https://www.perplexity.ai/" target="_blank"><img src="/img/ia/perplexity.svg" alt="Perplexity" width="50" height="50"/></a>
-  <a href="https://ollama.com/" target="_blank"><img src="/img/ia/ollama.svg" alt="Ollama" width="50" height="50"/></a>
-  <a href="https://www.deepseek.com/" target="_blank"><img src="/img/ia/deepseek.svg" alt="DeepSeek" width="50" height="50"/></a>
-  <a href="https://cursor.sh/" target="_blank"><img src="/img/ia/cursor.svg" alt="Cursor" width="50" height="50"/></a>
-  <a href="https://qwen.ai/" target="_blank"><img src="/img/ia/Qwen_dark.svg" alt="Qwen" width="50" height="50"/></a>
-</p>
+</td><td valign="top" width="33%">
 
-<div align="center">
-  <h2 align="center">🔧 Tools</a></h2>
+### QA & Testing  
+<div align="center">  
+<img style="margin: 10px" src="/img/qa-testing/postman.svg" alt="Postman" height="50" />  
+<img style="margin: 10px" src="/img/qa-testing/selenium.svg" alt="Selenium" height="50" />  
+<img style="margin: 10px" src="/img/qa-testing/jest.svg" alt="Jest" height="50" />  
+<img style="margin: 10px" src="/img/qa-testing/cypress.svg" alt="Cypress" height="50" />  
+<img style="margin: 10px" src="/img/qa-testing/playwright.svg" alt="Playwright" height="50" />  
+<img style="margin: 10px" src="/img/qa-testing/jira.svg" alt="Jira" height="50" />  
+<img style="margin: 10px" src="/img/qa-testing/apidog.svg" alt="APIdog" height="50" />  
 </div>
-<p align="center">
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="/img/tools/premiere.svg" alt="Adobe Premiere Pro" width="50" height="50"/></a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"><img src="/img/tools/after-effects.svg" alt="Adobe After Effects" width="50" height="50"/></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="/img/tools/illustrator.svg" alt="Adobe Illustrator" width="50" height="50"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="/img/tools/photoshop.svg" alt="Adobe Photoshop" width="50" height="50"/></a>
-  <a href="https://obsidian.md/" target="_blank"><img src="/img/tools/obsidian.svg" alt="Obsidian" width="50" height="50"/></a>
-  <a href="https://bitwarden.com/" target="_blank"><img src="/img/tools/bitwarden.svg" alt="Bitwarden" width="50" height="50"/></a>
-  <a href="https://todoist.com/" target="_blank"><img src="/img/tools/todoist.svg" alt="Todoist" width="50" height="50"/></a>
-  <a href="https://github.com/microsoft/PowerToys" target="_blank"><img src="/img/tools/powertoys.svg" alt="PowerToys" width="50" height="50"/></a>
-  <a href="https://www.torproject.org/" target="_blank"><img src="/img/tools/tor.svg" alt="Tor" width="50" height="50"/></a>
-</p>
+
+</td><td valign="top" width="33%">
+
+### Tools  
+<div align="center">  
+<img style="margin: 10px" src="/img/tools/illustrator.svg" alt="Illustrator" height="50" />  
+<img style="margin: 10px" src="/img/tools/photoshop.svg" alt="Photoshop" height="50" />  
+<img style="margin: 10px" src="/img/tools/premiere.svg" alt="Premiere" height="50" />  
+<img style="margin: 10px" src="/img/tools/after-effects.svg" alt="After Effects" height="50" />  
+<img style="margin: 10px" src="/img/tools/obsidian.svg" alt="Obsidian" height="50" />  
+<img style="margin: 10px" src="/img/tools/bitwarden.svg" alt="Bitwarden" height="50" />  
+<img style="margin: 10px" src="/img/tools/todoist.svg" alt="Todoist" height="50" />  
+<img style="margin: 10px" src="/img/tools/powertoys.svg" alt="PowerToys" height="50" />  
+<img style="margin: 10px" src="/img/tools/tor.svg" alt="Tor" height="50" />  
+</div>
+
+</td></tr></table>  
+
+<table><tr><td valign="top" width="100%">
+
+### AI Tools  
+<div align="center">  
+<img style="margin: 10px" src="/img/ia/copilot.svg" alt="GitHub Copilot" height="50" />  
+<img style="margin: 10px" src="/img/ia/claude.svg" alt="Claude" height="50" />  
+<img style="margin: 10px" src="/img/ia/openai.svg" alt="OpenAI" height="50" />  
+<img style="margin: 10px" src="/img/ia/gemini.svg" alt="Gemini" height="50" />  
+<img style="margin: 10px" src="/img/ia/perplexity.svg" alt="Perplexity" height="50" />  
+<img style="margin: 10px" src="/img/ia/ollama.svg" alt="Ollama" height="50" />  
+<img style="margin: 10px" src="/img/ia/deepseek.svg" alt="DeepSeek" height="50" />  
+<img style="margin: 10px" src="/img/ia/cursor.svg" alt="Cursor" height="50" />  
+<img style="margin: 10px" src="/img/ia/Qwen_dark.svg" alt="Qwen" height="50" />  
+</div>
+
+</td></tr></table>  
+
+### ⚡ Tech Snapshot
+```mermaid
+mindmap
+  root((Skills))
+    ((Languages))
+      Python
+      Java
+      TypeScript
+      Rust
+      C++
+      R
+    ((Frameworks))
+      Spring Boot
+      FastAPI
+      Reflex
+      Astro
+      Django
+      Express.js
+      NestJS
+      React
+    ((Databases))
+      MySQL
+      Oracle
+      PostgreSQL
+      MongoDB
+      SQLite
+      DynamoDB
+    ((Infrastructure & DevOps))
+      AWS
+        S3
+        SNS
+        DynamoDB
+        Lambda
+      Azure
+      Cloudflare
+      Docker
+      Terraform
+      Vercel
+      Kubernetes
+    ((QA & Testing))
+      Postman
+      Selenium
+      Jest
+      Cypress
+      Playwright
+      Jira
+      Apidog
+      Swagger
+    ((AI Tools))
+      GitHub Copilot
+      Claude
+      OpenAI
+      Gemini
+      Perplexity
+      Ollama
+      DeepSeek
+      Cursor
+      Qwen
+    ((Tools))
+      Adobe Suite
+        Illustrator
+        Photoshop
+        Premiere
+        After Effects
+      Productivity
+        Obsidian
+        Bitwarden
+        Todoist
+        PowerToys
+      Security
+        Tor
+```
 
 ## 📊 GitHub Stats
 
