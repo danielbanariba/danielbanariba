@@ -1,4 +1,5 @@
-# <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Hi, I'm Daniel Banariba   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
+# <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Hi, I'm Daniel Banariba <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
 ### 💻 Software Engineer | Backend Developer
 
 <img src="/img/banner.png">
@@ -34,10 +35,12 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-## My Skill Set  
+## My Skill Set
+
 <table><tr><td valign="top" width="33%">
 
-### Languages  
+### Languages
+
 <div align="center">  
 <img style="margin: 10px" src="/img/lenguage/python.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="/img/lenguage/java.svg" alt="Java" height="50" />  
@@ -49,7 +52,8 @@ me.say_hi()
 
 </td><td valign="top" width="33%">
 
-### Frameworks  
+### Frameworks
+
 <div align="center">  
 <img style="margin: 10px" src="/img/framework/spring.svg" alt="Spring Boot" height="50" />  
 <img style="margin: 10px" src="/img/framework/fastapi.svg" alt="FastAPI" height="50" />  
@@ -62,7 +66,8 @@ me.say_hi()
 
 </td><td valign="top" width="33%">
 
-### Databases  
+### Databases
+
 <div align="center">  
 <img style="margin: 10px" src="/img/database/mysql.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="/img/database/oracle.svg" alt="Oracle" height="50" />  
@@ -72,11 +77,12 @@ me.say_hi()
 <img style="margin: 10px" src="/img/database/aws-dynamodb.svg" alt="DynamoDB" height="50" />  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
 <table><tr><td valign="top" width="33%">
 
-### Infrastructure & DevOps  
+### DevOps
+
 <div align="center">  
 <img style="margin: 10px" src="/img/infraestructura/aws.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="/img/infraestructura/azure.svg" alt="Azure" height="50" />  
@@ -88,7 +94,8 @@ me.say_hi()
 
 </td><td valign="top" width="33%">
 
-### QA & Testing  
+### QA & Testing
+
 <div align="center">  
 <img style="margin: 10px" src="/img/qa-testing/postman.svg" alt="Postman" height="50" />  
 <img style="margin: 10px" src="/img/qa-testing/selenium.svg" alt="Selenium" height="50" />  
@@ -101,7 +108,8 @@ me.say_hi()
 
 </td><td valign="top" width="33%">
 
-### Tools  
+### Tools
+
 <div align="center">  
 <img style="margin: 10px" src="/img/tools/illustrator.svg" alt="Illustrator" height="50" />  
 <img style="margin: 10px" src="/img/tools/photoshop.svg" alt="Photoshop" height="50" />  
@@ -114,11 +122,12 @@ me.say_hi()
 <img style="margin: 10px" src="/img/tools/tor.svg" alt="Tor" height="50" />  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
 <table><tr><td valign="top" width="100%">
 
-### AI Tools  
+### AI Tools
+
 <div align="center">  
 <img style="margin: 10px" src="/img/ia/copilot.svg" alt="GitHub Copilot" height="50" />  
 <img style="margin: 10px" src="/img/ia/claude.svg" alt="Claude" height="50" />  
@@ -131,9 +140,10 @@ me.say_hi()
 <img style="margin: 10px" src="/img/ia/Qwen_dark.svg" alt="Qwen" height="50" />  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
 ### ⚡ Tech Snapshot
+
 ```mermaid
 mindmap
   root((Skills))
@@ -160,7 +170,7 @@ mindmap
       MongoDB
       SQLite
       DynamoDB
-    ((Infrastructure & DevOps))
+    ((DevOps))
       AWS
         S3
         SNS
@@ -214,7 +224,9 @@ mindmap
 </p>
 
 <!-- Featured Repositories -->
+
 ## ✨ Featured Repositories
+
 <p align="center">
   <a href="https://github.com/danielbanariba/analizador-lexico">
     <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielbanariba&repo=analizador-lexico&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
@@ -235,6 +247,7 @@ mindmap
 </p>
 
 # 🔭Actions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
