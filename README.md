@@ -1,8 +1,59 @@
 # <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Hi, I'm Daniel Banariba <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-### 💻 Software Engineer | Backend Developer
+### 💻 Data Engineer & AI Engineer  |  Tegucigalpa, Honduras
 
 <img src="/img/banner.png">
+
+## About
+
+**Daniel Banariba — Data Engineer and AI Engineer based in Tegucigalpa, Honduras.**
+Currently RPA Developer & Data Engineer at Grupo Farinter.
+
+I build tools that let AI operate production infrastructure, and the data
+pipelines underneath it.
+
+**AI engineering — my differentiator.** Five MCP (Model Context Protocol) servers
+running in production, letting Claude Code operate Dagster, SQL Server, SMB,
+Microsoft Graph and API health checks directly. Hardened with a read-only SQL
+validator, blast-radius policies with hard stops on destructive operations, and
+OAuth2 via Zitadel. Token consumption optimized ~10–20x. Day to day I work with
+sub-agent orchestration, Anthropic Agent Skills, slash commands and hooks across
+Claude Code, Codex CLI and OpenCode — under SDD and strict TDD.
+
+**Data engineering.** Production ETL pipelines in Dagster over a corporate SQL
+Server DWH: automated banking reconciliation (Credomatic/BAC, Ficohsa) and
+transactional reconciliation via SMB, with file sensors for automatic new-file
+detection. Cut a monthly demand forecast of ~23,000 series from ~18 hours to
+~61 minutes in production — byte-identical, deterministic output, no new
+dependencies.
+
+**Data platform reliability.** An autonomous watchdog that detects stuck pipelines
+by comparing runtimes against baselines learned from 100+ executions, cancels and
+relaunches them, and alerts over Telegram as a systemd service. Redesigned Dagster
+failure alerts from send-immediate to freshness-aware, which killed the noise from
+transient self-recovered failures. A generic AssetCheckEvaluation sensor uncovered
+a silent 182,928-row duplicate that had been passing with every run green.
+
+**Power BI as Code.** A PBIR/TMDL pipeline with a custom bind-check validator
+against the official schemas, CI in GitHub Actions, and agentic verification: a
+watcher that on every push validates, reloads and screenshots the report so an AI
+can verify what actually rendered.
+
+**Backend & systems.** hvault — a service written in pure Rust (CLI + daemon) that
+synchronizes TLS certificates across nodes using HashiCorp Vault (KV-v2), with
+atomic hot-reload, x509 validation without OpenSSL, and a Leptos/WASM admin UI over
+OIDC. Also a full-stack competitive pricing dashboard in Python (Reflex): 8
+analytical views over ~7,700 competitor SKUs with SCD2 margin-erosion detection,
+801 tests, CI/CD to Dokploy.
+
+**Earlier.** REST APIs with FastAPI and NestJS. VITEK medical-equipment integration
+over ASTM/HL7 protocols at Analiza Laboratorios Clínicos. E2E test automation with
+Playwright at GuabaBIT.
+
+- 📍 Tegucigalpa, Honduras — remote-friendly (LATAM and US time zones)
+- 🌐 Portfolio: https://www.danielbanariba.dev
+- 📧 danielbanariba@protonmail.com
+- 🗣️ Spanish (native), English
 
 ```python
 #!/usr/bin/python
@@ -13,9 +64,10 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Daniel Barrientos Anariba"
-        self.role = "Software Engineer"
+        self.role = "Data Engineer & AI Engineer"
+        self.location = "Tegucigalpa, Honduras"
         self.language_spoken = ["es_HN", "en_US"]
-        self.passions = ["Backend Development", "Clean Code", "Problem Solving"]
+        self.passions = ["Data Pipelines", "AI Engineering", "Clean Code"]
         self.coffee_level = 100  # Always full
 
     def say_hi(self):
@@ -163,6 +215,16 @@ mindmap
       Express.js
       NestJS
       React
+    ((Data & AI))
+      Dagster
+      dbt
+      Polars
+      Power BI as Code
+      MCP - Model Context Protocol
+      Agentic AI
+      LLMs
+      Anthropic API
+      Prompt Engineering
     ((Databases))
       MySQL
       Oracle
