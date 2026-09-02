@@ -278,36 +278,6 @@ mindmap
         Tor
 ```
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbanariba&show_icons=true&include_all_commits=true&theme=radical" alt="Daniel's github stats" align="center"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbanariba&layout=compact&theme=radical" align="center"/>
-</p>
-
-<!-- Featured Repositories -->
-
-## ✨ Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/danielbanariba/analizador-lexico">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielbanariba&repo=analizador-lexico&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-  </a>
-  <span>&nbsp;</span>
-  <a href="https://github.com/danielbanariba/sistemas-de-ecuaciones">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielbanariba&repo=sistemas-de-ecuaciones&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/danielbanariba/soundclound">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielbanariba&repo=soundclound&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-  </a>
-  <span>&nbsp;</span>
-  <a href="https://github.com/danielbanariba/portafolio-dev">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielbanariba&repo=portafolio-dev&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-  </a>
-</p>
-
 # 🔭Actions
 
 <picture>
