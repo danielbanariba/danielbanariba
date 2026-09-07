@@ -87,6 +87,8 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
+![](https://github-readme-stats.vercel.app/api?username=danielbanariba&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ## My Skill Set
 
 <table><tr><td valign="top" width="33%">
