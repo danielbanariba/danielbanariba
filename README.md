@@ -4,58 +4,6 @@
 
 <img src="/img/banner.png">
 
-## About
-
-**Daniel Banariba — Data Engineer and AI Engineer based in Tegucigalpa, Honduras.**
-Currently RPA Developer & Data Engineer at Grupo Farinter.
-
-I build tools that let AI operate production infrastructure, and the data
-pipelines underneath it.
-
-**AI engineering — my differentiator.** Six MCP (Model Context Protocol) servers
-running in production, letting an AI assistant operate orchestration, SQL Server,
-SMB file shares, deployments and corporate requirements directly. Hardened with a
-read-only SQL validator, two-step confirmation for production mutations,
-blast-radius policies with hard stops on destructive operations, and OAuth2. Token consumption optimized ~10–20x. Day to day I work with
-sub-agent orchestration, Anthropic Agent Skills, slash commands and hooks across
-Claude Code, Codex CLI and OpenCode — under SDD and strict TDD.
-
-**Data engineering.** Production ETL pipelines in Dagster over a corporate SQL
-Server DWH: automated banking and transactional reconciliation via SMB, plus an
-integration against a bank's H2H mass-payments REST API (OAuth2, secrets in
-HashiCorp Vault), with file sensors for automatic new-file detection. Cut a monthly demand forecast of ~23,000 series from ~18 hours to
-~61 minutes in production — byte-identical, deterministic output, no new
-dependencies.
-
-**Data platform reliability.** An autonomous watchdog that detects stuck pipelines
-by comparing runtimes against baselines learned from 100+ executions, cancels and
-relaunches them, and alerts over Telegram as a systemd service. Redesigned Dagster
-failure alerts from send-immediate to freshness-aware, which killed the noise from
-transient self-recovered failures. I also closed a structural data-quality gap: dozens of asset checks existed but
-nothing listened to their events, so I built a generic sensor that routes only
-real errors to Discord, Telegram and email, with cursor-based deduplication.
-
-**Power BI as Code.** A PBIR/TMDL pipeline with a custom bind-check validator
-against the official schemas, CI in GitHub Actions, and agentic verification: a
-watcher that on every push validates, reloads and screenshots the report so an AI
-can verify what actually rendered.
-
-**Backend & systems.** hvault — a service written in pure Rust (CLI + daemon) that
-synchronizes TLS certificates across nodes using HashiCorp Vault (KV-v2), with
-atomic hot-reload, x509 validation without OpenSSL, and a Leptos/WASM admin UI over
-OIDC. Also a full-stack competitive pricing dashboard in Python (Reflex): 10 analytical
-views with SCD2 margin-erosion detection, suggested-price simulation and
-column-level access control, refactored to multi-country. 1,790 tests, CI/CD.
-
-**Earlier.** REST APIs with FastAPI and NestJS. VITEK medical-equipment integration
-over ASTM/HL7 protocols at Analiza Laboratorios Clínicos. E2E test automation with
-Playwright at GuabaBIT.
-
-- 📍 Tegucigalpa, Honduras — remote-friendly (LATAM and US time zones)
-- 🌐 Portfolio: https://www.danielbanariba.dev
-- 📧 danielbanariba@protonmail.com
-- 🗣️ Spanish (native), English
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
