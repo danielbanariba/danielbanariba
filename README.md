@@ -109,22 +109,6 @@ me.say_hi()
 <img style="margin: 10px" src="/img/qa-testing/apidog.svg" alt="APIdog" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-### Tools
-
-<div align="center">  
-<img style="margin: 10px" src="/img/tools/illustrator.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="/img/tools/photoshop.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="/img/tools/premiere.svg" alt="Premiere" height="50" />  
-<img style="margin: 10px" src="/img/tools/after-effects.svg" alt="After Effects" height="50" />  
-<img style="margin: 10px" src="/img/tools/obsidian.svg" alt="Obsidian" height="50" />  
-<img style="margin: 10px" src="/img/tools/bitwarden.svg" alt="Bitwarden" height="50" />  
-<img style="margin: 10px" src="/img/tools/todoist.svg" alt="Todoist" height="50" />  
-<img style="margin: 10px" src="/img/tools/powertoys.svg" alt="PowerToys" height="50" />  
-<img style="margin: 10px" src="/img/tools/tor.svg" alt="Tor" height="50" />  
-</div>
-
 </td></tr></table>
 
 <table><tr><td valign="top" width="100%">
