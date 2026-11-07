@@ -42,19 +42,6 @@ me.say_hi()
 
 <table><tr><td valign="top" width="33%">
 
-### Languages
-
-<div align="center">  
-<img style="margin: 10px" src="/img/lenguage/python.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="/img/lenguage/java.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="/img/lenguage/typescript.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="/img/lenguage/rust.svg" alt="Rust" height="50" />  
-<img style="margin: 10px" src="/img/lenguage/cpp.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="/img/lenguage/r.svg" alt="R" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
 ### Frameworks
 
 <div align="center">  
